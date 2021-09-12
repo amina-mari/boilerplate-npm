@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mariana Amina",
+    "description": "An npm package just for educative reasons",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
